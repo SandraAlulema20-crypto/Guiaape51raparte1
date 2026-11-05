@@ -14,6 +14,12 @@ Clases y métodos sugeridos:
 IOException
 createNewFile()
 getName()
+
+
+
+
+
+
 Ejercicio 2. Escribir información en un fichero
 Enunciado:
 Desarrollar un programa en Java que permita ingresar un mensaje por teclado y almacenarlo en un archivo de texto existente llamado estudiantes.txt.
@@ -34,6 +40,14 @@ Clases y métodos sugeridos:
 write()
 close()
 Nota: El archivo estudiantes.txt debe existir previamente.
+
+
+
+
+
+
+
+
 Ejercicio 3. Eliminar un fichero en Java
 Enunciado:
 Desarrollar un programa en Java que permita eliminar el archivo de texto estudiantes.txt.
