@@ -1,0 +1,3 @@
+Información del Curso de Programación Orientada a Objetos
+Estado: Datos guardados correctamente.
+Actividad de gestión de archivos finalizada.
